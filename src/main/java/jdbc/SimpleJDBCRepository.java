@@ -1,6 +1,4 @@
 package jdbc;
-
-
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
